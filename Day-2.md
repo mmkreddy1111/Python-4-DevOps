@@ -77,7 +77,7 @@ Python is known for its clean and readable syntax. Here are some fundamental syn
    ```
 
 ### 4. List:
-   - Ordered collection of items, which can be of different types.
+   - Ordered collection of items, which can be of different types. List is mutable, it can be changed.
 
    Example:
 
